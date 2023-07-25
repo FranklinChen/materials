@@ -6,7 +6,7 @@
 #
 branca==0.6.0
     # via folium
-certifi==2022.9.24
+certifi==2023.7.22
     # via requests
 charset-normalizer==2.1.1
     # via requests
